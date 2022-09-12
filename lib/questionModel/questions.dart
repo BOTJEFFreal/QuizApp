@@ -1,0 +1,1 @@
+String question1 = "A wire of length 2 units is cut into two parts which are bent respectively to form a square of side = x units and a circle of radius = r units. If the sum of the areas of the square and the circle so formed is minimum, then:";
